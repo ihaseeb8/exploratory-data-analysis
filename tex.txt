@@ -1,0 +1,5 @@
+key = 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
+audio_file= open("./Merged_Angry/SM1_Angry.wav", "rb")
+transcript = openai.Audio.transcribe("whisper-1", audio_file)
+
+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
