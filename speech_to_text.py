@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "Put your api key here"
 
 # Define the list of emotion folders
 emotion_folders = ['Merged_Angry', 'Merged_Happy', 'Merged_Neutral', 'Merged_Sad']
